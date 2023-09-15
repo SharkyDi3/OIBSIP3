@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Roboto&display=swap');
+
+* {
+    font-family: 'Outfit', sans-serif;
+    font-size: 30px;
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 15%, rgba(0,212,255,1) 100%);
+
+}
+  
+  h {
+    margin-left: 48%;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  
+  form {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .result {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .button {
+    background-color: #337ab7;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #286090;
+  }
+
+
+  
+  
